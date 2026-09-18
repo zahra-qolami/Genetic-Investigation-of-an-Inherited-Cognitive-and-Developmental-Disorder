@@ -1,0 +1,8 @@
+Filtering step,Variants remaining,Unique genes
+0. Raw annotated positions (deduplicated),532973,34714
+1. Quality filter (FILTER = PASS),461101,33654
+2. ClinVar significance filter,455615,33540
+3. InterVar ACMG classification filter,845,623
+4. Exonic only (Func.refGene),764,545
+5. Protein-altering consequence,675,506
+6. Rare in ExAC (AF < 0.001),387,271
